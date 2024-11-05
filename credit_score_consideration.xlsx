@@ -1,0 +1,11 @@
+customer_name,customer_cstatus,credit_rating
+Mia Johnson,Employed,bad
+Aiden Smith,Employed,very_bad
+Zoe Brown,Unemployed,bad
+Ethan Davis,Employed,very_bad
+Lily Wilson,Employed,very good
+Noah Anderson,Unemployed,very good
+Ava Taylor,Employed,very_bad
+Jackson White,Unemployed,bad
+Emma Harris,Employed,bad
+Jackson,Unemployed,very good
